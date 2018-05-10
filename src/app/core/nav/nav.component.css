@@ -1,0 +1,20 @@
+.bg-light {
+  background-color:#24292e !important;
+}
+.nav-link, .navbar-brand {
+  color: #fff !important;
+}
+.container {
+  padding: 0px;
+}
+.btn-outline-success{
+  color: grey;
+  background-color: #fff;
+  border-color: none;
+}
+@media (min-width: 576px)
+{.form-inline .form-control {
+    width: 300px;
+    padding: 3px;
+}
+}
